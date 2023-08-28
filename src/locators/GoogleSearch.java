@@ -14,6 +14,7 @@ public class GoogleSearch {
 
     public static WebDriver driver;
 
+
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver","C:\\Selenium\\chromedriver-win64\\chromedriver.exe");
         ChromeOptions co = new ChromeOptions();

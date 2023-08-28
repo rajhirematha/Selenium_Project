@@ -9,6 +9,7 @@ public class SerachForIndiaWord {
 
 
 
+
     public static void main(String[] args) {
        System.setProperty("webdriver.chrome.driver","C:\\Selenium\\chromedriver_win32 (2)\\chromedriver.exe");
        driver=new ChromeDriver();

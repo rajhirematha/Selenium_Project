@@ -18,6 +18,7 @@ public class EnterCredentialsInSignUpPage {
 
 
 
+
         WebElement firstName = driver.findElement(By.cssSelector("input[placeholder='First Name']"));
         firstName.sendKeys("Raj");
         WebElement lastName = driver.findElement(By.cssSelector("input[placeholder='Last Name']"));
