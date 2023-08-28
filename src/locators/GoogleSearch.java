@@ -11,6 +11,7 @@ import java.time.Duration;
 import java.util.List;
 
 public class GoogleSearch {
+
     public static WebDriver driver;
 
     public static void main(String[] args) throws InterruptedException {

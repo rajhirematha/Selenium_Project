@@ -22,5 +22,7 @@ public class Asam {
         driver.findElement(By.linkText("Cart")).click();
         Thread.sleep(2000);
         driver.close();
+
+
     }
 }
