@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class LinkPlink {
+public class NavigateBack {
    public static WebDriver driver;
 
     public static void main(String[] args) throws InterruptedException {

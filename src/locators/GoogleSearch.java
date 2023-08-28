@@ -31,7 +31,8 @@ public class GoogleSearch {
         List<WebElement> ele = driver.findElements(By.name("btnK"));
          ele.get(1).click();
 
-
+Thread.sleep(2000);
+driver.close();
 
 
 
